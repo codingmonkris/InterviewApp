@@ -1,13 +1,13 @@
 {
   "name": "majorproject1",
   "version": "1.0.0",
-  "description": "To-do-List",
+  "description": "Interviewapp",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ishan",
+  "author": "Rishabh",
   "license": "ISC",
   "dependencies": {
     "connect-flash": "^0.1.1",
